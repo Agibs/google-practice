@@ -1,0 +1,17 @@
+html{
+  font-family: arial,sans-serif;
+}
+img {
+  display: inherit;
+  margin: 0 auto;
+}
+input {
+  display: inherit;
+  margin: 0 auto;
+}
+div.main-block {
+  margin: 0 auto;
+}
+div.button-block {
+  text-align: center;
+}
